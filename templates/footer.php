@@ -5,7 +5,7 @@ function pageFooter(){
   
   <!-- 尾部 -->
   <div class="footer">
-    <p style="text-align: center;"><br>&copy;2014-2015 @Z's_QyBus_Volunteer.<br><br></p>
+    <p style="text-align: center;"><br>&copy;2014-2015 @Z's!<br><br></p>
   </div>
   <!-- 导航 -->
   <nav id="menu">
