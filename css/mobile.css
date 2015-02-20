@@ -1,0 +1,26 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: #FFFFFF;
+    font-family: "Tahoma";
+}
+.header {
+    background-color: #69F;
+    background-repeat: repeat-x;
+}
+
+.content {
+    padding :20px;
+}
+
+.footer {
+    background-color: #69F;
+    background-repeat: repeat-x;
+    text-align: center;
+    font-size: 12px;
+}
+
+.error {
+    text-align: center;
+    color: red;
+}
